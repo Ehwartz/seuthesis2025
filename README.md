@@ -7,10 +7,10 @@ LaTeX Template of Southeast University Thesis for Class of 2025 Bachelors (东�
 > 此**非官方**（unofficial）模版基于《东南大学本科毕业设计（论文）参考模板 (2025年1月修订)》设计。毕设论文具体格式要求请使用者自行确认。
 
 ## Template Summary
-This project provides a class file based on **LaTeX3** for typesetting thesis of Southeast University [`seuthesis2024b.cls`](seuthesis2025.cls).
+This project provides a class file based on **LaTeX3** for typesetting thesis of Southeast University [`seuthesis2025.cls`](seuthesis2025.cls).
 As an end-user, you do not need to know how to code in LaTeX3,
 but use the interface LaTeX2e only.
-Specifically, you will need to modify based on [`seuthesis2024b.tex`](seuthesis2025.tex).
+Specifically, you will need to modify based on [`seuthesis2025.tex`](seuthesis2025.tex).
 
 Oh, should I use Chinese to explain it one more time? Er, let's skip that. **TL;DR**:
 使用此模板请直接修改 [`seuthesis2025.tex`](seuthesis2025.tex).
